@@ -12,8 +12,9 @@
   ],
   "author": "Andre Giron, Jason Libbey",
   "license": "ISC",
-  "dependencies" : {
+  "dependencies": {
+    "body-parser": "^1.x.x",
     "express": "^4.x.x",
-    "body-parser": "^1.x.x"
+    "request": "^2.65.0"
   }
 }
