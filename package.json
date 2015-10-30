@@ -1,0 +1,19 @@
+{
+  "name": "PingPongSlack",
+  "version": "1.0.0",
+  "description": "A ping pong slack bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ping",
+    "pong"
+  ],
+  "author": "Andre Giron, Jason Libbey",
+  "license": "ISC",
+  "dependencies" : {
+    "express": "^4.x.x",
+    "body-parser": "^1.x.x"
+  }
+}
